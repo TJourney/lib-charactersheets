@@ -1,4 +1,4 @@
-unit: background/noble
+unit: background/noble-heraldry
 in: background
 group: "_{Core Rulebook}"
 name: "_{Noble - Heraldry}"
@@ -17,7 +17,7 @@ inc:
   - at: '@background'
     replace:
       - article: char-background
-        title: "_{Noble}"
+        title: "_{Noble - Heraldry}"
         contents:
 
           - p: "_{Trained in Society and Heraldry Lore}"
