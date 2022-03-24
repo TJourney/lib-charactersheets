@@ -1,7 +1,7 @@
 unit: background/noble
 in: background
 group: "_{Core Rulebook}"
-name: "_{Noble}"
+name: "_{Noble - Genealogy}"
 
 
 require:
@@ -9,7 +9,7 @@ require:
 
 inc:
   - set: char-background
-    value: "_{Noble}"
+    value: "_{Noble - Genealogy}"
 
   - set: society-proficiency
     value: trained
